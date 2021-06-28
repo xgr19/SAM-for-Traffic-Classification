@@ -3,7 +3,7 @@
 Paper title: Self-attentive deep learning method for online traffic classification and its
 interpretability
 
-Accepted by Elsevier Computer Networks
+Accepted by Elsevier Computer Networks (https://doi.org/10.1016/j.comnet.2021.108267)
 
 **Run the files as follow:**
 
