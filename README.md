@@ -2,6 +2,10 @@
 
 This is an implementation of SAN which aims to application protocol classification.
 
+Paper: SAM: Self-Attention based Deep Learning Method for Online Traffic Classification
+
+NetAI '20:  (https://doi.org/10.1145/3405671.3405811)
+
 **At first time, run as follow:**
 
 1. python3 Preprocess.py  # this will read dataset from /data, and generate data.map
