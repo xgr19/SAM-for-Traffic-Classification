@@ -2,9 +2,11 @@
 
 This is an implementation of SAN which aims to application protocol classification.
 
-Paper: SAM: Self-Attention based Deep Learning Method for Online Traffic Classification
+~~Paper: SAM: Self-Attention based Deep Learning Method for Online Traffic Classification~~
 
-NetAI '20:  (https://doi.org/10.1145/3405671.3405811)
+~~NetAI '20:  (https://doi.org/10.1145/3405671.3405811)~~
+
+~~This code is in an early version, something may be different from the paper~~
 
 **At first time, run as follow:**
 
