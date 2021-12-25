@@ -3,7 +3,9 @@
 Paper title: Self-attentive deep learning method for online traffic classification and its
 interpretability
 
-Accepted by Elsevier Computer Networks (https://doi.org/10.1016/j.comnet.2021.108267)
+Accepted by Elsevier Computer Networks (https://doi.org/10.1016/j.comnet.2021.108267)  
+
+More information about us https://xgr19.github.io
 
 **Run the files as follow:**
 
