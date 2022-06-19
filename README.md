@@ -7,6 +7,8 @@ Accepted by Elsevier Computer Networks (https://doi.org/10.1016/j.comnet.2021.10
 
 More information about us https://xgr19.github.io
 
+NetAI20 version https://github.com/xgr19/SAM-for-Traffic-Classification/tree/SAM-before-NetAI
+
 **Run the files as follow:**
 
 1. python3 preprocess.py
